@@ -5,7 +5,7 @@ A beginner-friendly Python weather app project to learn Python fundamentals and 
 Focused on the basics:  
 ⚪Displayed pressure, city name, humidity weather description , sunset and sunrise time and convert it from UTC to AM/PM time
 
-<img width="262" height="152" alt="Image" src="https://github.com/user-attachments/assets/4b8de204-3a2d-4fe8-88e9-b7ce79c47484" />
+<img width="189" height="152" alt="Image" src="https://github.com/user-attachments/assets/3445af36-6f16-4694-bbdb-4bb412ffb02a" />
 
 ⚪Learned about HTTP status codes and experimented with them in code  
 
